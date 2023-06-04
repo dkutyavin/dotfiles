@@ -1,0 +1,9 @@
+[user]
+	email = daniil.kutyavin94@gmail.com
+	name = dkutyavin
+[alias]
+	ci = commit
+	st = status --short
+	co = checkout
+	cob = checkout -b
+	graph = log --graph --format=oneline --all
